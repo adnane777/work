@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(138, 153, 153);
+    display:flex;
+    justify-content:center ;
+    margin:5%;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin: 2%;
+}
+h2{
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+}
+h5,body{
+    font-family: "Roboto", sans-serif;
+}
+.work{
+    display: flex;
+    font-size: 14px;
+    float: left;
+    display: block;
+    background-color: honeydew;
+    border-radius: 10px;
+    margin: 10px;
+    height: 680px;
+}
+.me,.skills,.lanuages{
+    padding-right: 0px;
+    padding-left: 10px;
+    margin: 0px auto;
+}
+.exp{
+    padding-left: 10px;
+    font-weight: 400;
+}
+.edu{
+    padding-left: 20px;
+    font-size: 20px;
+}
+.all{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
